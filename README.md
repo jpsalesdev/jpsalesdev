@@ -1,5 +1,3 @@
-![snake gif](https://github.com/jpsalesdev/jpsalesdev/blob/output/github-contribution-grid-snake.gif)
-
 <div align = 'center' style="text-align: center ; ">
 
 <img src='https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=header'>
@@ -28,3 +26,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpsalesdev&show_icons=true&theme=radical) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpsalesdev&langs_count=8)
+
+![snake gif](https://github.com/jpsalesdev/jpsalesdev/blob/output/github-contribution-grid-snake.gif)
