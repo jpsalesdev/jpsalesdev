@@ -1,4 +1,4 @@
-![snake gif](https://github.com/your-user-name/jpsalesdev/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/jpsalesdev/jpsalesdev/blob/output/github-contribution-grid-snake.gif)
 
 <div align = 'center' style="text-align: center ; ">
 
